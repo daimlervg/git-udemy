@@ -1,0 +1,11 @@
+#new git commit for squash
+
+#commit3 squash
+
+#commit 4 squash actiuvi
+
+#commit 5 squash actiuvi
+
+#commit 6 squash actiuvi
+
+#commit 7 squash actiuvi
